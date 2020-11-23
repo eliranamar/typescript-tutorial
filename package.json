@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tsc sandbox.ts -w"
+    "build": "tsc sandbox.ts",
+    "start": "tsc sandbox.ts -w"
   },
   "repository": {
     "type": "git",
